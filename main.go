@@ -11,4 +11,5 @@ func Calculate(x int) int {
 
 func main() {
 	fmt.Println("Go CI/CD Pipeline Tutorial")
+
 }
